@@ -9,6 +9,9 @@ verify_ssl = true
 tornado = "*"
 datetime = "*"
 aubio = "*"
+singledispatch = "*"
+backports-abc = "*"
+futures = "*"
 
 [requires]
 python_version = "2.7"
