@@ -1,6 +1,6 @@
 # soundviz2
 <ul>
-  <li> Tordano Web Server</li>
+  <li> Tornado Web Server</li>
   <li> Aubio Python </li>
   <li> P5.js </li>
 </ul>
